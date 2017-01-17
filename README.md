@@ -11,7 +11,7 @@ This image is the custom image of horizon from https://hub.docker.com/r/rethinkd
 
 ## Versions
 
-- `2.0.0`[(Dockerfile)](https://github.com/dtthaison/docker-horizon/blob/2.0.0/Dockerfile)
+- `2.0.0`[(Dockerfile)](https://github.com/siliconstraits/docker-horizon/blob/master/Dockerfile)
 
 ## Configuration
 
